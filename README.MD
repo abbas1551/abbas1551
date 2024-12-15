@@ -65,20 +65,12 @@ A To-Do app published on the Google Play Store, based on the principle of 4 quad
 - 🌐 **Portfolio**: Coming soon at [rizvithedeveloper.com](https://rizvithedeveloper.com) (Work in progress)
 - ⚡ **Fun Fact**: I once modified a Boat earbuds case to charge Nothing earbuds using custom wiring and hardware tweaks!
 
----
-
-## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasmurtaza&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasmurtaza&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Let's Connect!
 
-- **LinkedIn**: [Abbas Murtaza](https://linkedin.com/in/abbasmurtaza)  
-- **Twitter**: [@abbas_codes](https://twitter.com/abbas_codes)  
-- **Email**: [murtaza.abbas@example.com](mailto:murtaza.abbas@example.com)
+- **LinkedIn**: [Abbas Murtaza](https://www.linkedin.com/in/abbas-murtaza-744130253/)  
+- **Email**: [abbas22012@iiitd.ac.in](mailto:abbas22012@iiitd.ac.in)
 
 Feel free to explore my repositories and reach out for collaborations or just to say hi!
